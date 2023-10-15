@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "데이터 표현과 디지털 논리"
+toc: true
 ---
 ## 2. 문자표현
 
