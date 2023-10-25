@@ -1,7 +1,12 @@
 ---
 layout: single
 title:  "데이터 표현과 디지털 논리"
+categories:
+   - Computer Science
 toc: true
+toc_sticky: true
+tags:
+   - 컴퓨터 공학
 ---
 ## 2. 문자표현
 
