@@ -10,3 +10,8 @@
     - MVC
 ---
 
+## 참고자료
+
+https://headf1rst.github.io/TIL/spring-threadpool
+
+https://velog.io/@sihyung92/how-does-springboot-handle-multiple-requests
