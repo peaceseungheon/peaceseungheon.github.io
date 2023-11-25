@@ -198,7 +198,7 @@ public class SecurityConfig {
 
 ![SecurityFilterChain](https://docs.spring.io/spring-security/reference/_images/servlet/architecture/securityfilterchain.png)
 
-위 사진이 지금까지 설명했던 과정을 도식화한 것이다. 
+위 사진이 지금까지 설명했던 과정을 도식화한 것이다.
 
 아직 Spring Security에 대해 알아야할 게 많지만 이번 글을 통해 대략 Spring Security가 어떻게 동작하는지 알게 되었다. 추가적인 내용은 다른 글을 통해 정리해봐야겠다.
 

@@ -75,7 +75,7 @@ Scale out으로 늘어난 서버가 트래픽이 줄어들었음에도 계속 �
 
 ## Nginx는 어떻게 동작하는가
 
-[Nginx 정리](../spring_mvc_1/2023-10-31-was.md)
+[Nginx 정리](https://peaceseungheon.github.io/%EC%9D%B8%ED%94%84%EB%9F%B0/was/)
 
 위 글에서 Nginx의 주요한 특징은 Master Process가 Nginx의 설정파일을 기반으로 Worker Process를 만들고 Worker Process가 요청을 처리한다는 점이라 적었다. 이 때 OS 커널에서 Queue의 형태로 이벤트(커넥션 생성, I/O작업 등)들을 Worker Process에 넘겨주고 Worker Process는 해당 Queue에서 이벤트를 읽어 처리한다.
 
